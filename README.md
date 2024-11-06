@@ -65,8 +65,7 @@ Notre objectif est de rendre chaque moment de visionnage unique et de faciliter 
 - **Backend** : Firebase pour les données et l'authentification des utilisateurs.
 - **API Films** : The Movie Database (TMDb) API pour les informations détaillées sur les films.
 - **Intelligence Artificielle** : Modèles de Machine Learning (TensorFlow Lite) pour les recommandations personnalisées.
-- **Réalité Virtuelle** : Intégration avec des bibliothèques VR Android pour le mode Immersion.
-
+  
 ---
 
 ## 🚀 Installation
@@ -109,12 +108,6 @@ Notre objectif est de rendre chaque moment de visionnage unique et de faciliter 
 ### 4. **Accès aux Recommandations IA**
    - CineAI ajuste vos recommandations au fur et à mesure de vos interactions. Plus vous swipez, plus l'IA comprend vos goûts.
 
-### 5. **Mode Immersion**
-   - Activez le mode VR pour une expérience immersive. Nécessite un casque compatible.
-
-### 6. **Visionnage Synchro**
-   - Regardez un film avec vos amis en temps réel, avec chat intégré pour partager vos réactions en direct.
-
 ---
 
 ## 🛣️ Roadmap
@@ -127,7 +120,6 @@ Notre objectif est de rendre chaque moment de visionnage unique et de faciliter 
 
 ### Fonctionnalités envisagées
 - **Mode hors ligne** pour télécharger des listes et explorer sans connexion.
-- **Extension vers iOS** pour que CineSwipe soit disponible sur toutes les plateformes.
 - **Ajout d’un mode de réalité augmentée (AR)** pour découvrir des anecdotes ou infos cachées sur les affiches de films.
 
 ---
@@ -144,18 +136,10 @@ Les contributions sont les bienvenues pour faire évoluer CineSwipe !
 
 ---
 
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
 ## 📫 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
-- **Nom** : [Votre Nom]
-- **Email** : [votre.email@example.com]
-- **GitHub** : [Votre Profil GitHub](https://github.com/votre-nom)
-
-Merci d'avoir choisi **CineSwipe** pour découvrir vos prochains coups de cœur cinématographiques !
+- **Nom** : DERHILLE Erwan
+- **Email** : erwandhe59@gmail.com
+- **GitHub** : https://github.com/erwandhe59
